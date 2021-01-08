@@ -13,6 +13,7 @@
 [submodule "dexcom-share-client-swift"]
 	path = dexcom-share-client-swift
 	url = https://github.com/LoopKit/dexcom-share-client-swift.git
+	branch = dev
 [submodule "G4ShareSpy"]
 	path = G4ShareSpy
 	url = https://github.com/LoopKit/G4ShareSpy.git
@@ -25,3 +26,6 @@
 [submodule "MKRingProgressView"]
 	path = MKRingProgressView
 	url = https://github.com/LoopKit/MKRingProgressView.git
+[submodule "xdrip-client-swift"]
+	path = xdrip-client-swift
+	url = https://github.com/julian-groen/xdrip-client-swift.git
